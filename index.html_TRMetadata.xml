@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tracking-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/tracking-metadata" generator="Adobe Captivate 8">
+<objective id="Quiz_2015930155851" passing-score="48" min-score="0" max-score="60" max-questions="7">
+<name>Quiz</name>
+<interactions>
+<interaction id="18715" type="choice" quiz-type="normal" correct-response="1">
+<name>Shall we begin?</name>
+<title>You are encouraged to take run through this scenario multiple times. You will be provided feedback for all responses, but there is only one correct response for each scenario.Now that you have gotten a preview of what is to come, please decide if you would like to begin.</title>
+<responses>
+<response id="1">Yes</response>
+<response id="2">No (This will exit the learning object)</response>
+</responses>
+</interaction>
+<interaction id="page_work" type="choice" quiz-type="normal" correct-response="3">
+<name>Select Your Work Area</name>
+<title>Based on Dr Page’s interview, where do you think it would be best to have this consultation?</title>
+<responses>
+<response id="1">At computer, faculty co-pilot, you are pilot</response>
+<response id="2">At computer, faculty pilot, you are co-pilot</response>
+<response id="3">No computer, just a conversation</response>
+</responses>
+</interaction>
+<interaction id="11724" type="choice" quiz-type="normal" correct-response="3">
+<name>Pixels: Select How to Describe</name>
+<title>You think about Dr. Page and decide how best to describe pixels and resolution.</title>
+<responses>
+<response id="1">A pixel is a physical point in a raster image, or the smallest addressable element in an all points addressable display device.</response>
+<response id="2">A minute area of illumination on a display screen, one of many from which an image is composed.</response>
+<response id="3">Dots used to make a picture. The more dots you have the clearer the picture looks.</response>
+</responses>
+</interaction>
+<interaction id="14414" type="choice" quiz-type="normal" correct-response="2">
+<name>Select Speed Used to Describe</name>
+<title>It is important to pay attention to how fast you are describing concepts to clients. If you go too quick it will be hard to process new concepts. If you go too slow, you may bore them.At what rate do you think you should describe pixels and resolution to Dr. Page?</title>
+<responses>
+<response id="1">Fast</response>
+<response id="2">Slow</response>
+<response id="3">Steady</response>
+</responses>
+</interaction>
+<interaction id="15276" type="choice" quiz-type="normal" correct-response="2">
+<name>Select Your Work Area</name>
+<title>Based on Dr. Page’s interview, where do you think it would be best to have this consultation?</title>
+<responses>
+<response id="1">At computer, faculty co-pilot, you are pilot</response>
+<response id="2">At computer, faculty pilot, you are co-pilot</response>
+<response id="3">No computer, just a conversation</response>
+</responses>
+</interaction>
+<interaction id="16098" type="choice" quiz-type="normal" correct-response="2">
+<name>Pixels: Select How to Describe</name>
+<title>You think about Dr. Page and decide how best to describe pixels and resolution.</title>
+<responses>
+<response id="1">A pixel is a physical point in a raster image, or the smallest addressable element in an all points addressable display device.</response>
+<response id="2">A minute area of illumination on a display screen, one of many from which an image is composed.</response>
+<response id="3">Dots used to make a picture. The more dots you have the clearer the picture looks.</response>
+</responses>
+</interaction>
+<interaction id="16900" type="choice" quiz-type="normal" correct-response="3">
+<name>Select Speed Used to Describe</name>
+<title>It is important to pay attention to how fast you are describing concepts to clients. If you go too quick it will be hard to process new concepts. If you go too slow, you may bore them.At what rate do you think you should describe pixels and resolution to Dr. Page?</title>
+<responses>
+<response id="1">Fast</response>
+<response id="2">Slow</response>
+<response id="3">Steady</response>
+</responses>
+</interaction>
+</interactions>
+</objective>
+</tracking-metadata>
